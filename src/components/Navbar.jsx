@@ -19,7 +19,7 @@ export default function Navbar() {
       <Image
         src={ImageShop}
         alt="Logotype"
-        width={100}
+        width={75}
         margin="0 auto"
         cursor="pointer"
         onClick={redirect}
